@@ -1,1 +1,1 @@
-worker: python kitchen_bot_amharic.py
+worker: python app.py
